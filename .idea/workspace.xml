@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc47b222-03b2-4e1d-b6d0-a602019b9c11" name="Changes" comment="" />
+    <list default="true" id="dc47b222-03b2-4e1d-b6d0-a602019b9c11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project 3.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +74,19 @@
       <option name="project" value="LOCAL" />
       <updated>1694083817924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project2">
+      <created>1694084125618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694084125618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project" />
-    <option name="LAST_COMMIT_MESSAGE" value="project" />
+    <MESSAGE value="project2" />
+    <option name="LAST_COMMIT_MESSAGE" value="project2" />
   </component>
 </project>
