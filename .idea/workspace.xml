@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc47b222-03b2-4e1d-b6d0-a602019b9c11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project 3.dart" afterDir="false" />
-    </list>
+    <list default="true" id="dc47b222-03b2-4e1d-b6d0-a602019b9c11" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.project4.dart">
+  <component name="RunManager" selected="Dart Command Line App.project5.dart">
     <configuration name="first.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/first.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -56,8 +54,14 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="project5.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/project5.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.project5.dart" />
         <item itemvalue="Dart Command Line App.project4.dart" />
         <item itemvalue="Dart Command Line App.project2.dart" />
         <item itemvalue="Dart Command Line App.first.dart" />
@@ -87,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694084125618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="project2">
+      <created>1694084292493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694084292493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="project2">
+      <created>1694084559875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694084559875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
