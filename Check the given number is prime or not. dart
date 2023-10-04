@@ -1,0 +1,20 @@
+bool isPrime(int num) {
+  if (num <= 1) {
+    return false;
+  }
+  for (int i = 2; i * i <= num; i++) {
+    if (num % i == 0) {
+      return false;
+    }
+  }
+  return true;
+}
+
+void main() {
+  int numberToCheck = 17; // Replace this with the number you want to check
+  if (isPrime(numberToCheck)) {
+    print('$numberToCheck is a prime number.');
+  } else {
+    print('$numberToCheck is not a prime number.');
+  }
+}
